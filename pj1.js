@@ -1,3 +1,3 @@
 function inicio() {
-    window.location.href ="../PROJETO01/inicio/int.html";
+    window.location.href ="../1Projeto/inicio/int.html";
 }
