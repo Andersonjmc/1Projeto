@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/404/461/97/glitch-art-artwork-game-over-hd-wallpaper-preview.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+}
+.hist {
+    background-color: rgb(99, 2, 2);
+    color: white;
+    font-family:serif;
+    font-size: 25px;
+    width: 500px;
+    border: 1px solid yellow;
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 46%;
+         background-color: rgb(2, 0, 0);
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }

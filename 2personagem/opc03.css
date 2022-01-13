@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/293431.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: black;
+    color: rgb(167, 150, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    border: 1px solid white;
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+.opc {
+  font-family: cursive;
+  font-size: 22px;
+  color: rgb(209, 0, 0);
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  }
+  .click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 12px;
+         background-color: red;
+         color: white;
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }
+  

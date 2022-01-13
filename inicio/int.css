@@ -1,0 +1,97 @@
+body {
+    background-image: url(https://images4.alphacoders.com/278/thumb-1920-278364.jpg);
+    background-size: cover;
+}
+.container {
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    border: solid;
+    border-width: 2px;
+    width: 490px;
+    margin-left: 60vh;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.subtema {
+    width: 50%;
+            height: 340px;
+            border: 3px solid red;
+            display: flex; /* Isto é uma flexbox */
+            flex-direction: row; 
+            margin-left: 280px;
+            margin-top: 30px;
+            align-items: center;
+            align-content: center;
+            }
+  
+.person1 {
+    margin: 9px;
+
+            width: 250px;
+            height: 300px;
+            justify-content: space-around;
+            position: static;
+            border: 3px solid white;
+            display: flex;
+            flex-direction: row;
+            color: white;
+            background-color: black;
+                   
+}
+.person2 {
+    margin: 9px;
+            width: 250px;
+            height: 300px;
+            justify-content: space-around;
+            border: 3px solid white;
+            display: flex;
+            flex-direction: row;
+            color: white;
+           background-color: black;            
+}
+.person3 {
+    margin: 9px;
+            width: 250px;
+            height: 300px;
+            justify-content: space-around;
+            border: 3px solid white;
+            display: flex;
+            flex-direction: row;
+            color: white;
+            background-color: black;
+            }          
+
+   
+.img1 {
+    position: absolute;
+    left: 300px;
+    top: 372px;
+}
+.img2 {
+   position: absolute;
+   left: 450px;
+   top: 372px;
+}
+.img3 {
+   position: absolute;
+   left: 740px;
+   top: 432px;
+}
+.stor {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 350px;
+    width: 550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.click {
+    display: flex;
+         margin-top: 5px;
+         margin-left: 41%;
+         background-color: red;
+         color: white;
+     }
+    }

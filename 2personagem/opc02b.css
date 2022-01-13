@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://wallup.net/wp-content/uploads/2018/10/01/803935-dark-evil-horror-spooky-creepy.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: none;
+    color: rgb(255, 251, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    width: 500px;
+    border: 2px solid rgb(255, 255, 255);
+    margin-left: 31%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.box {
+    font-family: cursive;
+    color: rgb(228, 0, 0);
+    text-align: center;
+    font-size: 25px;
+
+}
+.click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 45%;
+         background-color: rgb(7, 0, 0);
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }

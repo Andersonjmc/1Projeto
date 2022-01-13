@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/81/80/iDF3fX.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    width: 500px;
+    border: 2px solid rgb(250, 6, 6);
+    margin-left: 31%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.box {
+    font-family: cursive;
+    color: yellow;
+    text-align: center;
+}
+.click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 46%;
+         background-color: rgb(0, 0, 0);
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }

@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://www.renderhub.com/renderhub/terror-3d-wallpaper/terror-3d-wallpaper_3840x2400.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: rgb(5, 5, 0);
+    color: rgb(228, 245, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    border: 1px solid white;
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+.opc {
+  font-family: cursive;
+  font-size: 22px;
+  color: yellow;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  }
+  .click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 46%;
+         background-color: rgb(0, 0, 0);
+         color: white;
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }
+  

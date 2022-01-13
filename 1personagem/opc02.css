@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://uploads.spiritfanfiction.com/fanfics/historias/202002/a-maldicao-da-casa-abandonada-18533684-110220202020.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: rgb(99, 2, 2);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    border: 1px solid yellow;
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.box {
+    font-family: cursive;
+    color: yellow;
+    text-align: center;
+}
+.click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 46%;
+         background-color: red;
+         color: white;
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }
+   

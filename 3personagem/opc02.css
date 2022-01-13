@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://cdn.vox-cdn.com/thumbor/w5fgl6T3JA47STdo2U7s94Yf2Mw=/124x0:1316x596/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/16232116/Screen_Shot_2019_05_09_at_12.30.44_PM.png);
+    background-size: cover;
+}
+.hist {
+    background-color: none;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    width: 500px;
+    border: 2px solid rgb(255, 0, 0);
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.box {
+    font-family: cursive;
+    color: rgb(250, 233, 0);
+    text-align: center;
+    font-size: 22px;
+}
+.click {
+    display: flex;
+         margin-top: 5px;
+         margin-left: 46%;
+         background-color: red;
+         color: white;
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }

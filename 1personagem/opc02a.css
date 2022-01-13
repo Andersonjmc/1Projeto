@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://d1csarkz8obe9u.cloudfront.net/posterpreviews/game-over-poster-design-template-6069a82462373582296c15410b007aba_screen.jpg?ts=1616311656);
+    background-size: ;
+}
+.hist {
+    background-color: rgb(99, 2, 2);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    border: 1px solid yellow;
+    margin-left: 31%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.box {
+    font-family: cursive;
+    color: yellow;
+    text-align: center;
+}
+.click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 46%;
+         background-color: black;
+         color: white;
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }

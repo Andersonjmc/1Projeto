@@ -1,0 +1,95 @@
+body {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/853/57/228/the-nun-movies-2018-movies-hd-wallpaper-preview.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 500px;
+    border: 1px solid white;
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+}
+.box {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    height: 320px;
+    border: 3px solid red;
+    display: flex; /* Isto é uma flexbox */
+    margin-left: 280px;
+    margin-top: 30px;
+    align-items: center;
+    align-content: center;
+}
+    .op1 {
+        margin: 9px;
+        width: 300px;
+        height: 250px;
+        justify-content: space-around;
+        position: static;
+        border: 3px solid white;
+        display: flex;
+        flex-direction: row;
+        color: yellow;
+        font-family: cursive;
+        background-color: black;
+    }
+    .op2 {
+        margin: 9px;
+
+        width: 300px;
+        height: 250px;
+        justify-content: space-around;
+        position: static;
+        border: 3px solid white;
+        display: flex;
+        flex-direction: row;
+        color: yellow;
+        font-family: cursive;
+        background-color: black;
+    }
+    .op3 {
+        margin: 9px;
+
+        width: 300px;
+        height: 250px;
+        justify-content: space-around;
+        position: static;
+        border: 3px solid white;
+        display: flex;
+        flex-direction: row;
+        color: yellow;
+        font-family: cursive;
+        background-color: black;
+    }
+    .img1 {
+        position: absolute;
+        top: 320px;
+        left: 320px;
+        
+    }
+    .img2 {
+        position: absolute;
+        top: 320px;
+        left: 580px;
+    }
+    .img3 {
+        position: absolute;
+        top: 320px;
+        left: 870px;
+    }
+    .click {
+        display: flex;
+             margin-top: -33px;
+             margin-left: 46%;
+             background-color: red;
+             color: white;
+             border-radius: 10px;
+             font-size: 20px;
+             font-family: serif;
+         }
+       

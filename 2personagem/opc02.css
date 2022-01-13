@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/09/assombracaocolinanetflix.jpg);
+    background-size: cover;
+}
+.hist {
+    background-color: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.box {
+    font-family: cursive;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+}
+.click {
+    display: flex;
+         margin-top: 50px;
+         margin-left: 46%;
+         background-color: red;
+         color: white;
+         border-radius: 10px;
+         font-size: 20px;
+         font-family: serif;
+     }

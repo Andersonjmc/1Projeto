@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://images4.alphacoders.com/293/thumb-1920-293994.jpg);
+    background-size: cover;/* 'Cover', Melhor aproveitamento da imagem */
+     }
+     .container {
+         color: white;
+         font-size: 120px;
+         text-align: center;
+         background: none;
+         border-width: 2px;
+         border: solid;
+         border-radius: 5px;
+         border-color: red;
+}
+     .tecla {
+         display: flex;
+         margin-top: 30vh;
+         margin-left: 50%;
+         background-color: red;
+         color: white;
+     }
+     .direitos{
+         color: rgb(0, 0, 0);
+         font-family: serif;
+         background-color: rgb(255, 255, 255);
+         text-align: center;
+         display: flex;
+         margin-top: 70px;
+         justify-content: center;
+     }
