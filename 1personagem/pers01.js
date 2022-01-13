@@ -6,10 +6,10 @@ function escolha() {
         window.location.href = "../1personagem/opc01.html";
         break;
     } else if (escolha == 2) {
-        window.location.href = "../2personagem/opc02.html";
+        window.location.href = "../1personagem/opc02.html";
         break;
       } else if (escolha == 3) {
-        window.location.href = "../3personagem/opc03.html";
+        window.location.href = "../1personagem/opc03.html";
         break;
       } else {
         alert("Digite 1,2 ou 3");
